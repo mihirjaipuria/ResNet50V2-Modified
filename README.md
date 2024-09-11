@@ -1,4 +1,4 @@
-#Advanced Image Classification using Transfer Learning
+#Image Classification using Modified ResNet50V2
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
@@ -7,14 +7,14 @@
 This project implements a state-of-the-art image classification model using transfer learning with the ResNet50V2 architecture. The model is trained on a custom dataset with four classes, demonstrating high accuracy and robustness in image classification tasks.
 
 ## Table of Contents
-- [Features](#-features)
-- [Prerequisites](#️-prerequisites)
-- [Dataset](#-dataset)
-- [Usage](#-usage)
-- [Model Architecture](#️-model-architecture)
-- [Training Process](#-training-process)
-- [Results](#-results)
-- [Project Structure](#-project-structure)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Dataset](#dataset)
+- [Usage](#usage)
+- [Model Architecture](#model-architecture)
+- [Training Process](#training-process)
+- [Results](#results)
+- [Project Structure](#project-structure)
 
 ## Features
 
